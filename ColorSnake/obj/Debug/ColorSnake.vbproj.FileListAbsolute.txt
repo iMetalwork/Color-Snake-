@@ -1,0 +1,14 @@
+c:\users\jeremy\documents\visual studio 2015\Projects\ColorSnake\ColorSnake\bin\Debug\ColorSnake.exe.config
+C:\Users\Jeremy\documents\visual studio 2015\Projects\ColorSnake\ColorSnake\obj\Debug\ColorSnake.vbprojResolveAssemblyReference.cache
+C:\Users\Jeremy\documents\visual studio 2015\Projects\ColorSnake\ColorSnake\obj\Debug\ColorSnake.frmClassic.resources
+C:\Users\Jeremy\documents\visual studio 2015\Projects\ColorSnake\ColorSnake\obj\Debug\ColorSnake.Resources.resources
+C:\Users\Jeremy\documents\visual studio 2015\Projects\ColorSnake\ColorSnake\obj\Debug\ColorSnake.vbproj.GenerateResource.Cache
+C:\Users\Jeremy\documents\visual studio 2015\Projects\ColorSnake\ColorSnake\obj\Debug\ColorSnake.xml
+C:\Users\Jeremy\documents\visual studio 2015\Projects\ColorSnake\ColorSnake\bin\Debug\ColorSnake.exe
+C:\Users\Jeremy\documents\visual studio 2015\Projects\ColorSnake\ColorSnake\bin\Debug\ColorSnake.pdb
+C:\Users\Jeremy\documents\visual studio 2015\Projects\ColorSnake\ColorSnake\bin\Debug\ColorSnake.xml
+C:\Users\Jeremy\documents\visual studio 2015\Projects\ColorSnake\ColorSnake\obj\Debug\ColorSnake.exe
+C:\Users\Jeremy\documents\visual studio 2015\Projects\ColorSnake\ColorSnake\obj\Debug\ColorSnake.pdb
+C:\Users\Jeremy\documents\visual studio 2015\Projects\ColorSnake\ColorSnake\obj\Debug\ColorSnake.frmColorSnake.resources
+C:\Users\Jeremy\documents\visual studio 2015\Projects\ColorSnake\ColorSnake\obj\Debug\ColorSnake.SColor.resources
+C:\Users\Jeremy\documents\visual studio 2015\Projects\ColorSnake\ColorSnake\obj\Debug\ColorSnake.frmHighScores.resources

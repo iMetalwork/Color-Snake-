@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ColorSnake
+</name>
+</assembly>
+<members>
+<member name="T:ColorSnake.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ColorSnake.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ColorSnake.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ColorSnake.My.Resources.Resources.Beep2">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:ColorSnake.My.Resources.Resources.Bit_Rush">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:ColorSnake.My.Resources.Resources.classicScore">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:ColorSnake.My.Resources.Resources.DJ_Sona_Ethereal_Nosaj_Thing_x_Pretty_Lights_">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:ColorSnake.My.Resources.Resources.sColorScore">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+</members>
+</doc>
